@@ -7,4 +7,4 @@ This project aims to detect pavement damage, such as cracks and potholes, using 
 Uses Detectron2 for object detection and segmentation.
 Detects multiple types of road damage from street-view images.
 Achieves high precision and performance on urban road datasets.
-Can process real-time input and large-scale datasets.
+Can process real-time input and large-scale datasets
